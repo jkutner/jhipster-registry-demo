@@ -9,7 +9,7 @@
   },
   "buildpacks": [
     {
-      "url": "https://github.com/jkutner/jhipster/cache-primer-registry.tgz"
+      "url": "https://github.com/jkutner/jhipster-registry-cache-buildpack.git"
     },
     {
       "url": "heroku/java"
